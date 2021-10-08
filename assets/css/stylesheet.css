@@ -1,3 +1,10 @@
-*{
+body{
     background-color: aqua;
+}
+
+.inside{
+    position: relative;
+    left :-220px;
+    
+    height:650px;
 }
